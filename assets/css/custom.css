@@ -1,0 +1,9 @@
+@import "./color_schemes/dark"; // Optional: base your scheme on the dark theme
+body {
+  background: #0c2340;
+  color: #ffffff;
+}
+
+a {
+  color: #4da3ff;
+}
