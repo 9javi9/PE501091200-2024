@@ -1,13 +1,12 @@
 /* =====  PUCP COLOR SCHEME  ===== */
 /* Paleta PUCP institucional */
 
-$sidebar-color: #0F2C52 !default;         // azul profundo PUCP aproximado
-$sidebar-border-color: #0A3B7A !default;  // borde un poco más claro
+// SOLO cambiamos el sidebar
+$sidebar-color: #0F2C52;          // azul profundo PUCP
+$sidebar-border-color: #0A3B7A;   // borde azul
 
-$nav-child-link-color: #FFFFFF !default;  // texto blanco
-$nav-child-link-hover-color: #E6E6E6 !default;
+$nav-child-link-color: #FFFFFF;   // texto blanco
+$nav-child-link-hover-color: #E6E6E6;
 
-$nav-hover-color: rgba(255,255,255,0.2) !default;
-
-$link-color: #0A3B7A !default;            // azul PUCP para enlaces del contenido
-$link-color-hover: #004EA8 !default;      // hover más intenso
+// hover de ítems del menú
+$nav-hover-color: rgba(255, 255, 255, 0.15);
