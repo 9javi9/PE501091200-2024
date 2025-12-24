@@ -1,15 +1,24 @@
-$body-background-color: red;
-$body-text-color: #E6ECF5;
+/* =====  PUCP COLOR SCHEME  ===== */
 
-$link-color: #003A8C;
-$link-hover-color: #0050B3;
+/* Background + text */
+$body-background-color: #0f203b;
+$body-text-color: #ffffff;
 
-$btn-primary-color: #003A8C;
-$btn-primary-hover-color: #0050B3;
+/* Headings */
+$body-heading-color: #ffffff;
 
-$sidebar-color: #0F274A;
-$sidebar-border-color: #2F4166;
+/* Links */
+$link-color: #4da3ff;
+$link-color-hover: lighten($link-color, 10%);
 
-$search-background-color: #1C3661;
+/* Sidebar */
+$sidebar-color: #0b1830;
+$sidebar-border-color: #112652;
 
-$code-background-color: #13294B;
+/* Navigation active state */
+$nav-child-link-color: #d6e6ff;
+$nav-link-color-active: #4da3ff;
+
+/* Code blocks */
+$code-background-color: #0d2648;
+$code-border-color: #173b7a;
