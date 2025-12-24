@@ -4,6 +4,7 @@ baseurl: "/PE501091200-2024"  # Ruta después del dominio
 url: "https://9javi9.github.io"         # Dominio base de GitHub Pages
 
 remote_theme: just-the-docs/just-the-docs
+color_scheme: custom
 
 repository_url: https://github.com/9javi9/PE501091200-2024
 repository_branch: main
