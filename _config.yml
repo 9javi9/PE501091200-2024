@@ -1,0 +1,28 @@
+title: Evaluación de Riesgo Sísmico
+description: "Sitio sobre análisis de riesgo sísmico."
+baseurl: "/Analisis-de-Riesgo-Sismico"  # Ruta después del dominio
+url: "https://9javi9.github.io"         # Dominio base de GitHub Pages
+
+remote_theme: just-the-docs/just-the-docs
+
+repository_url: https://github.com/9javi9/Analisis-de-Riesgo-Sismico
+repository_branch: main
+search_enabled: true
+aux_links:
+  "Reportar problema":
+    - https://github.com/9javi9/Analisis-de-Riesgo-Sismico/issues
+
+head:
+  - "<link rel='stylesheet' href='https://unpkg.com/leaflet@1.7.1/dist/leaflet.css' />"
+  - "<script src='https://unpkg.com/leaflet@1.7.1/dist/leaflet.js'></script>"
+
+# Opcional: orden de navegación
+nav_sort: case_sensitive
+
+markdown: kramdown 
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+
+footer_content: footer_custom
