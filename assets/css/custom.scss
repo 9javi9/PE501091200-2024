@@ -1,10 +1,5 @@
----
----
-
-@import "just-the-docs";
-
-/* Ejemplo visible — luego lo cambiamos */
-body {
-  background: yellow !important;
-}
+@import "./color_schemes/dark"; // Optional: base your scheme on the dark theme
+$link-color: $blue-000;         // Example: change link color to a predefined blue
+$btn-primary-color: #ff0000;    // Example: change a button color using a hex code
+// Add any other variable overrides here
 
