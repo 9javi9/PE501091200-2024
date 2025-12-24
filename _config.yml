@@ -29,3 +29,5 @@ footer_content: footer_custom
 
 just_the_docs:
   color_scheme: pucp
+  custom_css:
+    - assets/css/custom.css
