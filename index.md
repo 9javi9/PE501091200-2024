@@ -8,4 +8,4 @@ nav_order: 1
 
 <img src="IMG/PGA.png" width="400" style="display:block; margin:auto;"/>
 
-Este repositorio está dedicado a mantener actualizados los avances del proyecto de evaluación de Riesgo Sísmico para el curso: **ANÁLISIS DE RIESGO SÍSMICO (1CIV33-0001)**.
+Este repositorio está dedicado a presentar los resultados del proyecto a nivel de Lima Metropolitana: **PE501091200-2024**.
