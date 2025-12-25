@@ -1,17 +1,13 @@
 /* =====  PUCP COLOR SCHEME  ===== */
 /* Paleta PUCP institucional */
-$body-background-color: #F5F6FA;   /* Fondo claro */
-$body-text-color: #0F203B;         /* Texto oscuro */
-$body-heading-color: #0F203B;      /* Títulos */
+$sidebar-color: rgba(15, 44, 82, 0.90);
 
-$link-color: #2869E6;              /* Azul de acento */
-$link-color-hover: #004EA8;         /* Azul principal */
+// Borde sólido azul un poco más claro
+$sidebar-border-color: #0A3B7A;
 
-$sidebar-color: #0A7BC2;            /* Fondo del menú */
-$sidebar-border-color: #004EA8;     /* Borde más intenso */
+// Texto legible en blanco
+$nav-child-link-color: #FFFFFF;
+$nav-child-link-hover-color: #E6E6E6;
 
-$btn-primary-color: #004EA8;
-$btn-primary-hover-color: #0A7BC2;
-
-$code-background-color: #E6EAF3;    /* Fondo de código */
-$code-border-color: #C8D4E8;
+// Hover sutil
+$nav-hover-color: rgba(255, 255, 255, 0.15);
