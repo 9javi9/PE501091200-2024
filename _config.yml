@@ -30,3 +30,4 @@ footer_content: footer_custom
 just_the_docs:
   sidebar:
     custom: true
+  show_footer: false
