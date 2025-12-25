@@ -23,6 +23,10 @@ nav_sort: case_sensitive
 markdown: kramdown 
 highlighter: rouge
 
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css
+
 plugins:
   - jekyll-feed
 
