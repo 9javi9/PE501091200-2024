@@ -3,32 +3,3 @@ body {
   background: #0c2340;
   color: #ffffff;
 }
-
-a {
-  color: #4da3ff;
-}
-/* ===== Forzar texto blanco en sidebar ===== */
-
-.site-nav .nav-list .nav-list-item > .nav-list-link {
-  color: #ffffff !important;
-}
-
-.site-nav .nav-list .nav-list-item > .nav-list-link:hover {
-  color: #e6e6e6 !important;
-}
-
-.site-nav .nav-list .nav-list-item .nav-list-expander {
-  color: #ffffff !important;
-}
-
-/* Sub-items */
-.site-nav .nav-list .nav-list-child .nav-list-link {
-  color: #ffffff !important;
-}
-
-.site-nav .nav-list .nav-list-child .nav-list-link:hover {
-  color: #e6e6e6 !important;
-}
-.site-title {
-  color: #ffffff !important;
-}
