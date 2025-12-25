@@ -2,27 +2,27 @@
 // === Sidebar PUCP ===
 
 // Azul institucional PUCP oscuro
-$sidebar-color: #0F2C52;
+$sidebar-color: #0F2C52 !default;
 
 // Borde del sidebar (ligeramente más claro)
-$sidebar-border-color: #0A3B7A;
+$sidebar-border-color: #0A3B7A !default;
 
 
 // === Texto del menú ===
 
 // Texto blanco en sidebar
-$nav-child-link-color: #FFFFFF;
+$nav-child-link-color: #FFFFFF !default;
 
 // Hover claro
-$nav-child-link-hover-color: #E6E6E6;
+$nav-child-link-hover-color: #E6E6E6 !default;
 
 // Hover de fondo suave
-$nav-hover-color: rgba(255, 255, 255, 0.12);
+$nav-hover-color: rgba(255, 255, 255, 0.12) !default;
 
 
 // === Enlaces del contenido principal (pueden quedar estándar)
 // si prefieres mantener los del theme, NO redefinas esto
 // pero si quieres azul PUCP:
 
-$link-color: #0A3B7A;
-$link-color-hover: #004EA8;
+$link-color: #0A3B7A !default;
+$link-color-hover: #004EA8 !default;
