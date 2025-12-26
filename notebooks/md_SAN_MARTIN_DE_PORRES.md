@@ -10,7 +10,7 @@ nav_order: 41
 
 ## Tendencias
 
-<embed src="/dist/Distrito_SAN MARTIN DE PORRES.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_SAN MARTIN DE PORRES.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

@@ -10,7 +10,7 @@ nav_order: 39
 
 ## Tendencias
 
-<embed src="/dist/Distrito_SAN JUAN DE MIRAFLORES.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_SAN JUAN DE MIRAFLORES.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

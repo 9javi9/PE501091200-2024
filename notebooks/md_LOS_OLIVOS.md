@@ -10,7 +10,7 @@ nav_order: 22
 
 ## Tendencias
 
-<embed src="/dist/Distrito_LOS OLIVOS.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_LOS OLIVOS.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

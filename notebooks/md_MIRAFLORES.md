@@ -10,7 +10,7 @@ nav_order: 27
 
 ## Tendencias
 
-<embed src="/dist/Distrito_MIRAFLORES.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_MIRAFLORES.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

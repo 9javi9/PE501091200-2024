@@ -10,7 +10,7 @@ nav_order: 2
 
 ## Tendencias
 
-<embed src="/dist/Distrito_ATE.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_ATE.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

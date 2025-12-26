@@ -10,7 +10,7 @@ nav_order: 47
 
 ## Tendencias
 
-<embed src="/dist/Distrito_SURQUILLO.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_SURQUILLO.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

@@ -10,7 +10,7 @@ nav_order: 44
 
 ## Tendencias
 
-<embed src="/dist/Distrito_SANTA MARIA DEL MAR.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_SANTA MARIA DEL MAR.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

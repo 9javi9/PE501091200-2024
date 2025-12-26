@@ -10,7 +10,7 @@ nav_order: 1
 
 ## Tendencias
 
-<embed src="/dist/Distrito_ANCON.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_ANCON.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

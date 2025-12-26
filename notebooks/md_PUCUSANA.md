@@ -10,7 +10,7 @@ nav_order: 29
 
 ## Tendencias
 
-<embed src="/dist/Distrito_PUCUSANA.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_PUCUSANA.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

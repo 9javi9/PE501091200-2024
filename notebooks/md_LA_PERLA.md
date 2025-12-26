@@ -10,7 +10,7 @@ nav_order: 17
 
 ## Tendencias
 
-<embed src="/dist/Distrito_LA PERLA.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_LA PERLA.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

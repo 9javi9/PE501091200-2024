@@ -10,7 +10,7 @@ nav_order: 16
 
 ## Tendencias
 
-<embed src="/dist/Distrito_LA MOLINA.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_LA MOLINA.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

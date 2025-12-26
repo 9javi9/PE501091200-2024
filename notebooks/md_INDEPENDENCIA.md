@@ -10,7 +10,7 @@ nav_order: 14
 
 ## Tendencias
 
-<embed src="/dist/Distrito_INDEPENDENCIA.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_INDEPENDENCIA.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

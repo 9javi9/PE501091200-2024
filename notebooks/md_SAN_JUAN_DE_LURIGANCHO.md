@@ -10,7 +10,7 @@ nav_order: 38
 
 ## Tendencias
 
-<embed src="/dist/Distrito_SAN JUAN DE LURIGANCHO.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_SAN JUAN DE LURIGANCHO.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

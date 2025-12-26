@@ -10,7 +10,7 @@ nav_order: 40
 
 ## Tendencias
 
-<embed src="/dist/Distrito_SAN LUIS.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_SAN LUIS.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

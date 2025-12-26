@@ -10,7 +10,7 @@ nav_order: 5
 
 ## Tendencias
 
-<embed src="/dist/Distrito_BREÑA.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_BREÑA.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

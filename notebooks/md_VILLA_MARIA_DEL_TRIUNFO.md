@@ -10,7 +10,7 @@ nav_order: 50
 
 ## Tendencias
 
-<embed src="/dist/Distrito_VILLA MARIA DEL TRIUNFO.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_VILLA MARIA DEL TRIUNFO.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

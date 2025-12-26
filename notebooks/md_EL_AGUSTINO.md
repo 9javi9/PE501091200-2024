@@ -10,7 +10,7 @@ nav_order: 13
 
 ## Tendencias
 
-<embed src="/dist/Distrito_EL AGUSTINO.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_EL AGUSTINO.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

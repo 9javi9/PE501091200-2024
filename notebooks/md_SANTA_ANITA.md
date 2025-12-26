@@ -10,7 +10,7 @@ nav_order: 43
 
 ## Tendencias
 
-<embed src="/dist/Distrito_SANTA ANITA.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_SANTA ANITA.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

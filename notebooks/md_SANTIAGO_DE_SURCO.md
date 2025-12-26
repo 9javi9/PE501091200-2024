@@ -10,7 +10,7 @@ nav_order: 46
 
 ## Tendencias
 
-<embed src="/dist/Distrito_SANTIAGO DE SURCO.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_SANTIAGO DE SURCO.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

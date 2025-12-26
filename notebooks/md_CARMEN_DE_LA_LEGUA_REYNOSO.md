@@ -10,7 +10,7 @@ nav_order: 8
 
 ## Tendencias
 
-<embed src="/dist/Distrito_CARMEN DE LA LEGUA REYNOSO.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_CARMEN DE LA LEGUA REYNOSO.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

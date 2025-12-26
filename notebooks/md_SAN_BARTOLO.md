@@ -10,7 +10,7 @@ nav_order: 35
 
 ## Tendencias
 
-<embed src="/dist/Distrito_SAN BARTOLO.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_SAN BARTOLO.pdf"
        type="application/pdf"
        width="100%"
        height="400px">

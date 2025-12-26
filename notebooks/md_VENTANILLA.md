@@ -10,7 +10,7 @@ nav_order: 48
 
 ## Tendencias
 
-<embed src="/dist/Distrito_VENTANILLA.pdf"
+<embed src="/PE501091200-2024/dist/Distrito_VENTANILLA.pdf"
        type="application/pdf"
        width="100%"
        height="400px">
