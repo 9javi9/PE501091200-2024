@@ -4,10 +4,13 @@ parent: Resultados
 nav_order: 46
 ---
 
-# SANTIAGO DE SURCO
+# SANTIAGO DE SURCO: Crecimiento urbano (2016-2025)
 
-<iframe src="/PE501091200-2024/mapas/distrito_SANTIAGO_DE_SURCO.html" width="100%" height="650" frameborder="0"></iframe>
-<embed src="{ '../dist/DISTRITO_SANTIAGO DE SURCO.pdf' | relative_url }"
+<iframe src="/PE501091200-2024/mapas/distrito_VILLA_MARIA_DEL_TRIUNFO.html" width="100%" height="650" frameborder="0"></iframe>
+
+## Tendencias
+
+<embed src="/dist/Distrito_SANTIAGO DE SURCO.pdf"
        type="application/pdf"
        width="100%"
-       height="600px">
+       height="400px">
