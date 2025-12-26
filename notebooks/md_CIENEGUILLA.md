@@ -14,3 +14,12 @@ nav_order: 11
        type="application/pdf"
        width="100%"
        height="400px">
+
+## Evidencias
+
+Se presentan muestars del crecimiento urbano del distrito, identificados en los puntos marcados en color cian, a partir de la base de datos de Google Street View.
+
+<embed src="https://drive.google.com/file/d/1GmglPZG6m1bw3z7PuqniZBiJvdXfRX7w/view?usp=drive_link"
+       type="application/pdf"
+       width="100%"
+       height="700px">
