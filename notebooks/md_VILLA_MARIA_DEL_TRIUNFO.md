@@ -14,11 +14,3 @@ nav_order: 50
        type="application/pdf"
        width="100%"
        height="400px">
-
-
-## Evidencia
-
-<embed src="/PE501091200-2024/VILLA MARIA DEL TRIUNFO_YOLO.pdf"
-       type="application/pdf"
-       width="100%"
-       height="600px">
