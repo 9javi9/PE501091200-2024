@@ -3,17 +3,28 @@ title: Agradecimientos
 nav_order: 4
 ---
 
-# Reconocimiento de Software y Fuentes
+# Reconocimiento de Recursos y Fuentes
 
-Este trabajo reconoce y agradece el uso de herramientas y recursos desarrollados por distintas instituciones en el marco de la evaluación del peligro sísmico.
+Este trabajo reconoce y agradece el uso de herramientas y recursos desarrollados por distintas instituciones en el marco del desarrollo del proyecto de investigación: **PE501091200-2024**.
 
-## Software utilizados
+## Recursos utilizados
 
-- **OpenQuake Engine**: Se utilizó la plataforma de código abierto OpenQuake, desarrollada por la *Global Earthquake Model Foundation (GEM)*, para llevar a cabo el modelado probabilístico del peligro sísmico. Esta herramienta permite incorporar lógica de árboles de decisiones, múltiples fuentes sísmicas y diferentes modelos de atenuación, lo que resulta clave para una evaluación robusta del riesgo.
+- **Python**: Lenguaje de programación empleado para automatizar procesos relacionados con la gestión de información geoespacial y la calibración de redes neuronales. Se utilizaron principalmente las librerías **GDAL**, **PyTorch** y **NumPy**.
 
-- **CRISIS2007**: Se hizo uso del software CRISIS2007 desarrollado por la Universidad Nacional Autónoma de México (UNAM), una herramienta ampliamente utilizada para la evaluación del peligro sísmico probabilístico en América Latina. Su interfaz gráfica y versatilidad lo convierten en una herramienta útil para el análisis académico y técnico.
+- **OpenStreetMap**: Se empleó la información disponible sobre edificaciones y áreas verdes para complementar la base de datos de zonas urbanas y no urbanas.
 
 ## Instituciones
 
-- **Instituto Geofísico del Perú (IGP)**: Se agradece al IGP por sus estudios y evaluaciones oficiales de peligro sísmico en el territorio peruano, los cuales han servido de base para la calibración y validación de modelos en este trabajo. La información publicada por el IGP constituye una referencia fundamental para el desarrollo de estudios de ingeniería sísmica en el país.
+- **Prociencia – Concytec**: Por financiar el proyecto de investigación **PE501091200-2024: Monitoreo del crecimiento urbano en zonas vulnerables empleando imágenes satelitales e inteligencia artificial**, en el marco del concurso de **Tesis de Pregrado y Posgrado en Ciencia, Tecnología e Innovación Tecnológica 2024**.
 
+- **GERDIS (PUCP)**: Grupo de investigación en el que se desarrolló la tesis de maestría asociada al proyecto.
+
+- **ESA**: Por la provisión de imágenes satelitales de la constelación **Sentinel-2**, utilizadas como insumo principal para la red neuronal convolucional calibrada.
+
+- **INEI**: Por la información cartográfica de manzanas y delimitación de áreas urbanas.
+
+- **CISMID**: Por los estudios de microzonificación sísmica realizados en Lima Metropolitana.
+
+- **INGEMMET**: Por los estudios de peligros geológicos en Lima Metropolitana, incluyendo mapas de susceptibilidad a deslizamientos.
+
+- **Marina de Guerra del Perú**: Por los mapas oficiales de inundación en Lima Metropolitana.
