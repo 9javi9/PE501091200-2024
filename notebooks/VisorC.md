@@ -1,8 +1,5 @@
 ---
 title: Curvas de Nivel
-parent: Peligro Sísmico
-nav_order: 5
-permalink: /mapa/
 ---
 
 # Curvas de Nivel a nivel Nacional (PGA)
