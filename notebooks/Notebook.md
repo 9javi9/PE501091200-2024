@@ -4,6 +4,10 @@ nav_order: 2
 has_children: true
 ---
 
-# Modulos
+# Resultados a nivel de Lima Metropolitana
 
-En el proyecto de evaluación de Riesgo Sísmico se veran los siguientes modulos:
+
+
+# Resultados a nivel Distrital
+
+Se presentan los resultados en los presentes distritos:
