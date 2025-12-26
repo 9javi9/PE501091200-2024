@@ -10,13 +10,13 @@ nav_order: 6
 
   La función de costo fue adaptada de la siguiente manera:
 
-  \[
-  \tilde{R}(g) =
-  \max \Big\{
-      \tilde{R}_{pu}^{\text{NNPU}}(g),\,
-      \tilde{R}_{nu}^{\text{NNNU}}(g)
-  \Big\}
-  \]
+$$
+\tilde{R}(g)=
+\max (
+\tilde{R}_{pu}^{\text{NNPU}}(g);
+\tilde{R}_{nu}^{\text{NNNU}}(g)
+)
+$$
 
 - Para la etapa de clasificación se utilizó como *backbone* la arquitectura **ResNet-152**, reconocida por su profundidad y estabilidad en el entrenamiento de redes convolucionales profundas.  
   👉 [Ver referencia](https://ieeexplore.ieee.org/document/7780459)
