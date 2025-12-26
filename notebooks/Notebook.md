@@ -9,7 +9,6 @@ has_children: true
 <p align="center">
   <img src="../IMG/Crecimiento_urbano.png" width="400" alt="Fuentes generadoras"/>
   <br>
-  <em>Fuente: Instituto Geofísico del Perú (IGP)</em>
 </p>
 
 # Resultados a nivel Distrital
